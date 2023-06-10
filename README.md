@@ -7,8 +7,7 @@ I’m Mikayla Woods nice to meet you!
 
 - 
 
-My LinkedIn URL is <div> <a href="https://www.linkedin.com/in/mikaylaxwoods" target="_blank">connect</a>?
-</div>
+My LinkedIn URL is www.linkedin.com/in/mikaylaxwoods
 
 
 <!---
