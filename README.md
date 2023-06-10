@@ -7,10 +7,9 @@
   </a>
 </div>
 
-I’m Mikayla Woods nice to meet you! :woman_technologist:
+I’m Mikayla Woods nice to meet you! 
 
-My LinkedIn URL is www.linkedin.com/in/mikaylaxwoods
-
+--- :cactus: About Me:
 
 <!---
 mikayla-woods/mikayla-woods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
