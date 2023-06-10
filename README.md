@@ -11,7 +11,7 @@ I’m Mikayla Woods nice to meet you!
 --- 
 :cactus: About Me:
 
-- :pencil2: I am a mathematics educator, programming/robotics mentor, and data science graduate student from Arizona. 
+- 🤖 I am a mathematics educator, programming/robotics mentor, and data science graduate student from Arizona. 
 
 - 🌱 I am taking my PostgresSQL class and rocking it!
 - ⚡ In my freetime I mentor local middle and high school students for First Robotics
@@ -28,6 +28,9 @@ I’m Mikayla Woods nice to meet you!
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" title="PostgresSQL" alt="PostgrestSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
 </div>
+
+---
+📝 Soft Skills
 
 <!---
 mikayla-woods/mikayla-woods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
