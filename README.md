@@ -18,7 +18,7 @@ I’m Mikayla Woods nice to meet you!
 - 🔥 My favorite classes so far have been included: Tableau, Python, and R. 
 
 ---
-Languages and Tools
+💻 Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
