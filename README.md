@@ -1,14 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300"/>
 </div>
-
 <div id="badges" align = "center">
   <a href="https://linkedin.com/in/mikaylaxwoods">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-I’m Mikayla Woods nice to meet you!
+I’m Mikayla Woods nice to meet you! :woman_technologist:
 
 My LinkedIn URL is www.linkedin.com/in/mikaylaxwoods
 
