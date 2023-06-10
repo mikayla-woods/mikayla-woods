@@ -30,7 +30,13 @@ I’m Mikayla Woods nice to meet you!
 </div>
 
 ---
-📝 Soft Skills
+📝 Mathematics Examples
+- ➕ Linear Algebra
+- ➖ Geometry
+- ✖️ Calculus
+- ➗ Statistics
+
+---
 
 <!---
 mikayla-woods/mikayla-woods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
