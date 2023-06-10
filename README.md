@@ -11,7 +11,11 @@ I’m Mikayla Woods nice to meet you!
 --- 
 :cactus: About Me:
 
-I am currently a mathematics educator, programming/robotics mentor, and data science graduate student. :pencil2:
+- :pencil2: I am a mathematics educator, programming/robotics mentor, and data science graduate student from Arizona. 
+
+- 🌱 I am taking my SQL class and rocking it!
+- ⚡ In my freetime I mentor local middle and high school students for First Robotics
+- 🔥 My favorite classes so far have been included: Tableau, Python, and R. 
 <!---
 mikayla-woods/mikayla-woods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
