@@ -8,8 +8,8 @@
 </div>
 
 I’m Mikayla Woods nice to meet you! 
-
---- :cactus: About Me:
+--- 
+:cactus: About Me:
 
 <!---
 mikayla-woods/mikayla-woods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
