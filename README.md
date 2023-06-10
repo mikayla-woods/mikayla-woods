@@ -29,12 +29,6 @@ I’m Mikayla Woods nice to meet you!
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
 </div>
 
----
-📝 Mathematics Examples
-- ➕ Linear Algebra
-- ➖ Geometry
-- ✖️ Calculus
-- ➗ Statistics
 
 ---
 
