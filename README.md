@@ -4,10 +4,12 @@
 
 I’m Mikayla Woods nice to meet you!
 
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 
+
+My LinkedIn URL is <div> <a href="https://www.linkedin.com/in/mikaylaxwoods" target="_blank">connect</a>?
+</div>
+
 
 <!---
 mikayla-woods/mikayla-woods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
