@@ -11,11 +11,7 @@ I’m Mikayla Woods nice to meet you!
 --- 
 :cactus: About Me:
 
-- 🤖 I am a mathematics educator, programming/robotics mentor, and data science graduate student from Arizona. 
-
-- 🌱 I am taking my PostgresSQL class and rocking it!
-- ⚡ In my freetime I mentor local middle and high school students for First Robotics
-- 🔥 My favorite classes so far have been included: Tableau, Python, and R. 
+- 🤖 I am a mathematics educator and data scientist!
 
 ---
 💻 Languages and Tools
