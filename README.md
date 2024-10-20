@@ -12,6 +12,10 @@ I’m Mikayla Woods nice to meet you!
 :cactus: About Me:
 
 - 🤖 I am a mathematics educator and data scientist!
+- I have my B.A. in Secondary Education (Mathematics)
+- I have my M.S. in Data Science
+- I am currently looking for work in the Data Science/Analyst field after May 2025.
+- I have taught Algebra I, Geometry, Algebra II, and Statistics (this includes general, special, and honors education - IB Level Course)
 
 ---
 💻 Languages and Tools
